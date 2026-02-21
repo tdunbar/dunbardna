@@ -9,6 +9,7 @@ Dunbar DNA Genealogy System.  This system is powered by Drupal CMS, ProgresSQL a
 - Entity Reference Revisions - Used to allow specific entity revisions to be references.
 - Entity API - Used to create person, member, descendent and family entities.
 - Token - Used to support automation.
+- File Entity - Used to create fieldable file assests.
 - Path Auto - Used to create user friendly links with content aliases.
 - Redirect - Used to create user friendly links to changed content pages.
 - Paragraphs - Used to organize structured genealogical content.
