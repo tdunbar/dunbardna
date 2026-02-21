@@ -5,6 +5,7 @@ Dunbar DNA Genealogy System.  This system is powered by Drupal CMS, ProgresSQL a
 - Node Access - Used to allow members to edit their own family profiles and no one else's.
 - Membership Entity - Used to manage the member lifecycles of users in the system.
 - Entity Reference Hierarchy - Used to traverse nodes in a hierarchical manner.
+- Path Auto - Used to create content aliases.
 
 ## Contact
 
