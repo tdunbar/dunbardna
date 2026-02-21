@@ -8,6 +8,7 @@ Dunbar DNA Genealogy System.  This system is powered by Drupal CMS, ProgresSQL a
 - Entity Reference Hierarchy - Used to traverse nodes in a hierarchical manner.
 - Entity Reference Revisions - Used to allow specific entity revisions to be references.
 - Entity API - Used to create person, member, descendent and family entities.
+- Entity Browser - Used to provide a flexible, pluggable UI for browsing, searching, and selecting entities.
 - Token - Used to support automation.
 - File Entity - Used to create fieldable file assests.
 - Path Auto - Used to create user friendly links with content aliases.
