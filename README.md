@@ -22,6 +22,7 @@ Dunbar DNA Genealogy System.  This system is powered by Drupal CMS, ProgresSQL a
 - Bibliography & Citation - Used to manage citation references.
 - Charts - Used to provide charting widgets.
 - Address - Used to collect and validate international Postal Address information.
+- Taxonomy Manager - Used to manage the structured genealogical terms in the system.
 - JSON:API - Used to integrate D3.js graph visualization (included by core).
 - JSON:API Extras - Used to configure the JSON:API module.
 
