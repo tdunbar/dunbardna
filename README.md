@@ -1,11 +1,14 @@
 # Project dunbardna
 Dunbar DNA Genealogy System.  This system is powered by Drupal CMS, ProgresSQL and some custom Javascript development.  The system manages the Dunbar DNA genealogical content maintained by the Clan Dunbar International organization.  The system's users are the members of Clan Dunbar.
 
+## Issue Tracking
+Issue tracking and project work queues are managed here:  [Issues](https://github.com/tdunbar/dunbardna/issues)
+
 ## Drupal Contributed Modules Used
-- Node Access - Used to allow members to edit their own family profiles and no one else's.
-- Content Access - Used for simple access controls by roles.
-- Membership Entity - Used to manage the member lifecycles of users in the system.
-- Entity Reference Hierarchy - Used to traverse nodes in a hierarchical manner.
+- Node Access - Used to allow members to edit their own family profiles and no one else's.  [Node Access](https://www.drupal.org/project/nodeaccess)
+- Content Access - Used for simple access controls by roles.  [Content Access](https://www.drupal.org/project/content_access)
+- Membership Entity - Used to manage the member lifecycles of users in the system.  [Membership Entity](https://www.drupal.org/project/membership_entity)
+- Entity Reference Hierarchy - Used to traverse nodes in a hierarchical manner.  [Entity Reference Hierarchy](https://www.drupal.org/project/entity_hierarchy)
 - Entity Reference Revisions - Used to allow specific entity revisions to be references.
 - Entity API - Used to create person, member, descendent and family entities.
 - Entity Browser - Used to provide a flexible, pluggable UI for browsing, searching, and selecting entities.
